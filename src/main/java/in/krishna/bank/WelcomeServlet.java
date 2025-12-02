@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 public class WelcomeServlet extends HttpServlet {
 
     private static final long serialVersionUID = 1L;
-addddddddddded extra chaaaaaaaracter 
+ 
     @Override
     protected void doGet(HttpServletRequest request,
                          HttpServletResponse response)
@@ -21,6 +21,10 @@ addddddddddded extra chaaaaaaaracter
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
 
+        PrintWriter out = response.getWriter();
+        PrintWriter out = response.getWriter();
+        PrintWriter out = response.getWriter();
+        PrintWriter out = response.getWriter();
         out.println("<!DOCTYPE html>");
         out.println("<html>");
         out.println("<head>");
