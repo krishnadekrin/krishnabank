@@ -84,7 +84,7 @@
         </p>
 
         <p>
-            🔹 GitHub Repository<br>
+            🔹 GitHub Repository webhook checking<br>
             🔹 Jenkins Pipeline<br>
             🔹 SonarQube Quality Gate<br>
             🔹 Tomcat Deployment<br>
